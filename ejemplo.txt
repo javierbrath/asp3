@@ -1,1 +1,14 @@
 ejemplo de codigo en git
+build           Builds firmware from the current directory project
+
+clean           Removes intermediate compliation files completely
+
+init            Setup a new project in the current directory
+
+list-models     List supported Arduino board models
+
+preproc         Transform a sketch file into valid C++ source
+
+serial          Open a serial monitor (uses picocom)
+
+upload          Upload build firmware to the device
